@@ -1,0 +1,20 @@
+.world-item{
+    display: block;
+}
+.image-width{
+    width: 300px;
+    height: 400px;
+}
+.form-item{
+    display: block;
+
+}
+.name{
+    
+}
+.feedback{
+    margin-bottom: 0;
+}
+.form-submit{
+    margin-top: 20px;
+}
